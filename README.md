@@ -1,4 +1,4 @@
-# RC4_desktop  for DESKTOP
+# (Rivest Cipher) RC4 desktop Application. (Windows Form)  for DESKTOP. C#/ Dot.Net-7/Csharp
 Bu loyiha RC4 ( Rivest Cipher ) algoritmi yordamida shifrlash va deshifrlashni amalga oshirib beradi.
 
 eslatma:   -> windowsdesktop-runtime-7.0.5-win-x64 -> o'rnatilsin
